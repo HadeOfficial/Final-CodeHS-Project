@@ -2,3 +2,22 @@
     background: #e6e6fa;
     border: 3rem solid rgb(0 0 0 / 10%);
 }
+
+
+#grid {
+    height: 100vh;
+}
+
+#left {
+    background: lavender;
+}
+
+#grid {
+    transition: 300ms;
+    display: grid;
+    grid-template-columns: var(--left, 48px) auto;
+}
+
+#grid:has(#left:hover) {
+    --left: 22.5%;
+}
