@@ -1,6 +1,6 @@
 The really freakin annoying CodeHS alternative because I hate codehs and what it stands for
 
-<!-- SEMESTER END PROJECT. ADVANCED HTML AND CSS. This entire
+SEMESTER END PROJECT. ADVANCED HTML AND CSS. This entire
 page can be copied into your sandbox if you prefer.
 Below this section is the code framework you were given for the
 first project you created, "Homepage". I have included it in case you
@@ -14,7 +14,6 @@ your original "Homepage" assignment.
 1. 15 points - Add a style.css page. Move your styles from the
 "Homepage" to the style.css page and add any new styles to the
 style.css page as well.
-<link rel="stylesheet" type="text/css" href="style.css">
 
 2. 20 points - Have a total of 2 HTML pages. Make sure both
 are connected to one another via links. Both pages should look
@@ -41,4 +40,4 @@ gray-scale or color change, etc.
 
 7. 10 points - All sections from the previous assignment
 completed (some of you will just recieve these for having this done
-already. The rest can earn them back. -->
+already. The rest can earn them back.
