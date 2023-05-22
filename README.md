@@ -1,8 +1,7 @@
 The really freakin annoying CodeHS alternative because I hate codehs and what it stands for
 
-<a href="hadeofficial.github.io/final_project.github.io/">
   <h1>Final project website</h1>
-</a>
+<a href="hadeofficial.github.io/final_project.github.io/"><h1>Final project website</h1></a>
 
 SEMESTER END PROJECT. ADVANCED HTML AND CSS. This entire
 page can be copied into your sandbox if you prefer.
