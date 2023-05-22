@@ -1,6 +1,6 @@
 The really freakin annoying CodeHS alternative because I hate codehs and what it stands for
 
-<a href="[final_project.github.io](https://hadeofficial.github.io/final_project.github.io/)">EA Sports</a>
+<a href="[mainSite](../../index.html)">EA Sports</a>
 
 SEMESTER END PROJECT. ADVANCED HTML AND CSS. This entire
 page can be copied into your sandbox if you prefer.
