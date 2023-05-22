@@ -1,6 +1,6 @@
 The really freakin annoying CodeHS alternative because I hate codehs and what it stands for
 
-<a href="final_project.github.io">Text</a>
+<a href="[https://hadeofficial.github.io/final_project.github.io/](../../final_project.github.io)">Text</a>
 
 SEMESTER END PROJECT. ADVANCED HTML AND CSS. This entire
 page can be copied into your sandbox if you prefer.
