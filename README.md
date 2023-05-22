@@ -1,9 +1,7 @@
 The really freakin annoying CodeHS alternative because I hate codehs and what it stands for
 
-<a href="../../index.html">EA Sports</a>
-
-SEMESTER END PROJECT. ADVANCED HTML AND CSS. This entire
-page can be copied into your sandbox if you prefer.
+<h1> SEMESTER END PROJECT. ADVANCED HTML AND CSS. </h1>
+This entire page can be copied into your sandbox if you prefer.
 Below this section is the code framework you were given for the
 first project you created, "Homepage". I have included it in case you
 need any of it for revision, or if it was missing from the original
