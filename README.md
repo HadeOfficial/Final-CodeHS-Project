@@ -15,6 +15,8 @@ your original "Homepage" assignment.
 "Homepage" to the style.css page and add any new styles to the
 style.css page as well.
 
+<ul>1 is done</ul>
+
 2. 20 points - Have a total of 2 HTML pages. Make sure both
 are connected to one another via links. Both pages should look
 similar in style. As for what that second page contains, I will leave it
@@ -22,6 +24,8 @@ similar in style. As for what that second page contains, I will leave it
 "Hobbies" page, include at least one photo and a paragraph,
 minimum 4 sentences, describing what that page is about (could be
 an ordered or unordered list if you prefer).
+
+<ul>2 is done</ul>
 
 3. 15 points - In the previous assignment you created a table. I
 now want that table to have at least TWO background colors.
@@ -34,10 +38,14 @@ the assignment, please let me know where to find it.
 300px and have some sort of border. I don't care about the border
 style or color.
 
+<ul>5 is done</ul>
+
 6. 15 points- Add an animation of your choice to one photo.
 Think filter, size change,
 gray-scale or color change, etc.
 
+<ul>6 is done</ul>
+
 7. 10 points - All sections from the previous assignment
-completed (some of you will just recieve these for having this done
+completed some of you will just recieve these for having this done
 already. The rest can earn them back.
