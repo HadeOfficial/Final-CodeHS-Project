@@ -59,3 +59,14 @@
   margin: 4px 2px;
   cursor: pointer;
   }
+
+
+  /* Hide the text initially */
+  .hidden-text {
+    display: none;
+  }
+  
+  /* Show the text when hovering over the container */
+  .container:hover .hidden-text {
+    display: inline;
+  }
