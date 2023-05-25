@@ -30,6 +30,8 @@ an ordered or unordered list if you prefer).
 3. 15 points - In the previous assignment you created a table. I
 now want that table to have at least TWO background colors.
 
+<ul> 3 is done</ul>
+
 4. 15 points - Add a piece of text somewhere on one HTML
 page that only shows up when you hover over it. When you submit
 the assignment, please let me know where to find it.
