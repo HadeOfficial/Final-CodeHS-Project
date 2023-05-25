@@ -51,3 +51,5 @@ gray-scale or color change, etc.
 7. 10 points - All sections from the previous assignment
 completed some of you will just recieve these for having this done
 already. The rest can earn them back.
+
+<ul>7 done(?)</ul>
